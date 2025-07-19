@@ -5,6 +5,7 @@
 
 - 🧠 [July 2025](https://github.com/akilans/ai-ml-in-6-months/tree/main/01-july-2025)
   - [week-01 - 20/07/25 to 26/07/25 ](https://github.com/akilans/ai-ml-in-6-months/tree/main/01-july-2025/week-01)
+    - [Ollama](https://github.com/akilans/ai-ml-in-6-months/tree/main/01-july-2025/week-01/ollama)
 - 🧠 [August 2025](https://github.com/akilans/ai-ml-in-6-months/tree/main/02-august-2025)
 - 🧠 [September 2025](https://github.com/akilans/ai-ml-in-6-months/tree/main/03-september-2025)
 - 🧠 [October 2025](https://github.com/akilans/ai-ml-in-6-months/tree/main/04-october-2025)
