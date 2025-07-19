@@ -1,4 +1,4 @@
-# ai-ml-in-6-months [ 20/07/2025 to 16/01/2026 ]
+# Mastering AI and ML in 6 months [ 20/07/2025 to 16/01/2026 ]
 - Documenting my 6-month journey through AI and machine learning, as I explore the newest tools and evolving trends
 
 ### Learning Journey
